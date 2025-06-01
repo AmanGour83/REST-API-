@@ -1,3 +1,2 @@
 # Task-3
-i was not aware of the api but after getting this task i watched lectures on api and node ja and get to know about it 
-after i got to know about it i easily completed this task
+I don't Know anything about this but still trying to learn what i learn from youtube i did it
